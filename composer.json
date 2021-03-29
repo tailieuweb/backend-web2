@@ -1,5 +1,5 @@
 {
-    "name": "tailieuweb/backend-web2",
+    "name": "tailieuweb/backend",
     "description": "Create text",
     "keywords": [       
     ],
@@ -14,8 +14,7 @@
     "require": {
     },
     "autoload": {
-        "psr-4": {
-            "Tailieuweb\\Backend\\": "/"
+        "psr-4": {           
         }
     },
     "minimum-stability": "dev"
